@@ -1,3 +1,5 @@
+const prompt = require ('prompt-sync')()
+
 let nomeProdutos = []
 let totalGasto = 0
 let lojaAtual = "McDonald's"
